@@ -1,4 +1,4 @@
-Skin Cancer Symptom Prediction using Machine Learning & Deep Learning
+ # Skin Cancer Symptom Prediction using Machine Learning & Deep Learning
 
 •	Requirements – Tensorflow, Keras & Flask
 •	Download whole folder and run cancer.py
