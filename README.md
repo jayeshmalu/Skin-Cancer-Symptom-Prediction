@@ -1,1 +1,2 @@
-#Skin Cancer Symptom Prediction using Machine Learning &amp; Deep Learning
+#Skin-Cancer-Symptom-Prediction
+using Machine Learning & Deep Learning
