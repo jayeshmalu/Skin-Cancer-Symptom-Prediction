@@ -101,7 +101,6 @@ srsly==1.0.5
 statsmodels==0.10.1
 svm==0.1.0
 sympy==1.4
-tables==3.5.2
 tabulate==0.8.9
 tangled-up-in-unicode==0.0.7
 tblib==1.4.0
